@@ -4,7 +4,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background: #FFFFFF; /*white background */
-    color: #eee;
+    color: #333;
     margin: 0;
     padding: 0;
 }
@@ -54,7 +54,7 @@ section p {
 
 /* Project Cards */
 .project {
-    background: rgba(255, 255, 255, 0.05); /* Glassmorphic effect */
+    background: rgba(240, 240, 240, 0.9); /* Light background for contrast on white */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
